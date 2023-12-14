@@ -1,13 +1,10 @@
 # ads-etc-practice
 Just keeping a diary of all the ADS and other similar problems I have solved (or attempted to) on sites like HackerRank, LeetCode...
+All solutions are written in Python 3
 
 ## Contents
 
 - [Nothing to see yet](www.google.com)
-
-
-
-
 
 
 ## Links
