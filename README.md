@@ -4,7 +4,8 @@ All solutions are written in Python 3
 
 ## Contents
 
-- [Nothing to see yet](www.google.com)
+- [Arrays](https://github.com/leormston/ads-etc-practice/tree/main/Leetcode/Arrays)
+
 
 
 ## Links
