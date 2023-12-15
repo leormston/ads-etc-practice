@@ -5,14 +5,9 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
-        index = 0
-        count = 0
+        index, count = 0, 0
         while(index != len(nums)):
-            print(nums)
-            if nums[index] == val:
-                nums.pop(index)
-            else:
-                index += 1
-                count += 1
-        return count
+            if nums[index] == val: nums.pop(index)
+            else: index, count = index + 1, count + 1
+        return count 
                 
