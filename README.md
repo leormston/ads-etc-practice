@@ -7,6 +7,8 @@ All solutions are written in Python 3
 - [Arrays](https://github.com/leormston/ads-etc-practice/tree/main/Leetcode/Arrays)
 - [DynamicProgramming](https://github.com/leormston/ads-etc-practice/tree/main/Leetcode/DynamicProgramming)
 - [Strings](https://github.com/leormston/ads-etc-practice/tree/main/Leetcode/Strings)
+- [Trees](https://github.com/leormston/ads-etc-practice/tree/main/Leetcode/Trees)
+
 
 
 
